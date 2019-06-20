@@ -69,6 +69,7 @@ namespace display{
                 int parallel_disps = 1);
 
         virtual ~RGBMatrix();
+        
 
 
 
