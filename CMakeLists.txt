@@ -12,7 +12,10 @@ set(HEADER_FILES ${PROJECT_SOURCE_DIR}/include/leddisp.h
                 ${PROJECT_SOURCE_DIR}/include/canvas.h
                 ${PROJECT_SOURCE_DIR}/include/gpio.h
                 ${PROJECT_SOURCE_DIR}/include/pmapper.h
-                ${PROJECT_SOURCE_DIR}/include/thread.h)
+                ${PROJECT_SOURCE_DIR}/include/thread.h
+                ${PROJECT_SOURCE_DIR}/include/graphics.h)
+
+
 
 
 set(LIB_FILES ${PROJECT_SOURCE_DIR}/lib/leddisp.cpp
