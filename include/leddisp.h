@@ -117,7 +117,7 @@ namespace display{
 
         FrameCanvas* active_;
 
-        GPIO* *io_;
+        GPIO* io_;
         Mutex active_frame_sync;
 
         UpdateThread* update_;

@@ -14,7 +14,8 @@ set(HEADER_FILES ${PROJECT_SOURCE_DIR}/include/leddisp.h
                 ${PROJECT_SOURCE_DIR}/include/pmapper.h
                 ${PROJECT_SOURCE_DIR}/include/thread.h
                 ${PROJECT_SOURCE_DIR}/include/graphics.h
-                ${PROJECT_SOURCE_DIR}/include/streamer.h)
+                ${PROJECT_SOURCE_DIR}/include/streamer.h
+                ${PROJECT_SOURCE_DIR}/include/dispbinding.h)
 
 
 
