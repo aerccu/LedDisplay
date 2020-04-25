@@ -80,6 +80,8 @@ namespace display
 
         virtual void waitUntillFinished() {}
     };
+
+    uint32_t GetCounterValUS();
 }
 
 #endif // GPO_H
